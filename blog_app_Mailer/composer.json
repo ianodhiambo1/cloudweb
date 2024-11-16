@@ -1,0 +1,16 @@
+{
+    "name": "user/blog_app_org-mailer",
+    "autoload": {
+        "psr-4": {
+            "User\\BlogAppOrgMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IAP"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "6.8.1"
+    }
+}
